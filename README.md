@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Abin's GitHub stats](https://github-readme-stats.vercel.app/api?username=abinabraham&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abinabraham&repo=github-readme-stats)](https://github.com/abinabraham/github-readme-stats)
+[![Abin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abinabraham)](https://github.com/abinabraham/github-readme-stats)

@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about bites of Python.
 - 📫 How to reach me: www.abin.live, abinabrahamcs@gmail.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abinabraham&layout=compact)](https://github.com/abinabraham/github-readme-stats)
+
 ![Abin's GitHub stats](https://github-readme-stats.vercel.app/api?username=abinabraham&show_icons=true&theme=radical)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abinabraham&repo=github-readme-stats)](https://github.com/abinabraham/github-readme-stats)
